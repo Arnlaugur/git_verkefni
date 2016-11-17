@@ -1,1 +1,2 @@
 Git spurningar og svör
+1.1: cd: Breytir um skrá
