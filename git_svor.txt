@@ -6,3 +6,4 @@ Git spurningar og svör
 1.5: mkdir: ef skrá með þessu nafni er ekki til þá býr mkdir hana til
 2.1: git clone: clonar geymslu í nýja skrá
 2.2: git log: Sýnir allar breytingar í geymslu í öfugri röð
+2.3: git status: þessi skypunn sér og skrifar út hvort það er einhver munur á núverandi geymslu og skránni sem notandi er að vinna með
