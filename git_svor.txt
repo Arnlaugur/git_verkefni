@@ -1,2 +1,3 @@
 Git spurningar og svör
 1.1: cd: Breytir um skrá
+1.2: cd ~: Fljótari leið til að komast aftur í heima skránna
