@@ -3,3 +3,4 @@ Git spurningar og svör
 1.2: cd ~: Fljótari leið til að komast aftur í heima skránna
 1.3: ls: Skrifar út allt sem er í skránni
 1.4: pwd: Skrifar út í hvaða skrá þú ert
+1.5: mkdir: ef skrá með þessu nafni er ekki til þá býr mkdir hana til
