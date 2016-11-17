@@ -9,3 +9,4 @@ Git spurningar og svör
 2.3: git status: þessi skypunn sér og skrifar út hvort það er einhver munur á núverandi geymslu og skránni sem notandi er að vinna með
 2.4: git diff: skypunns sem sýnir muninn á skránni sem notandi er að vinna með og núverandi skránni
 2.5: git checkout: endurheimtar breytingar sem notandi hefur gert við skránna sem hann er að vinna með
+3: git diff sýnir munin á skránni og geymslunni, diff staged sýnir muninn sýðan notandi commitaði sýðast, diff commit1 commit2 sýnir munninn á milli tveggja commit skráa
