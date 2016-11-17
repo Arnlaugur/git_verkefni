@@ -12,3 +12,5 @@ Git spurningar og svör
 3: git diff sýnir munin á skránni og geymslunni, diff staged sýnir muninn sýðan notandi commitaði sýðast, diff commit1 commit2 sýnir munninn á milli tveggja commit skráa
 4: Version Control: Version control er kerfi sem geymir breytingar á skrá
 5: Auðveldara að vinna í hópum og halda utan um verkefnið, líka betra til að sjá hvar eitthvað fór úrskeiðis
+6: Ef vinna með skjal sem þú einn höndlar þá commita fyrir hverja stærri breytingu þar sem aðrir þurfa ekki nýjustu gerðina af skjalinu, ef unnið með öðrum ætti að commita fyrir hverja minni breytingu(fer auðvitað eftir breytinguni)
+Arnlaugur Samúel
